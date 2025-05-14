@@ -61,3 +61,9 @@ The application fetches product data from [DummyJSON API](https://dummyjson.com/
 ## Responsive Design
 
 The UI is fully responsive and works on desktop, tablet, and mobile devices.
+
+
+##  Application Screenshot
+
+![image](https://github.com/user-attachments/assets/f7733c51-5dd0-4ac1-b0e6-2675fd538768)
+
